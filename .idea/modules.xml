@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/activejdbc001.iml" filepath="$PROJECT_DIR$/.idea/modules/activejdbc001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/activejdbc001_main.iml" filepath="$PROJECT_DIR$/.idea/modules/activejdbc001_main.iml" group="activejdbc001" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/activejdbc001_test.iml" filepath="$PROJECT_DIR$/.idea/modules/activejdbc001_test.iml" group="activejdbc001" />
+    </modules>
+  </component>
+</project>
